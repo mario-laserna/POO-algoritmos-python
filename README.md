@@ -1,2 +1,3 @@
-# POO-algoritmos-python
-Repo curso Platzi - POO y algoritmos en python
+# POO y algoritmos en python
+
+Repositorio del curso en Platzi - POO y algoritmos en python
